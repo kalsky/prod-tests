@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: Start Torque Sandbox
       id: start-sandbox
-      uses: kalsky/torque-start-sb-action@0.0.4
+      uses: kalsky/torque-start-sb-action@v0.0.4
       with:
         space: aaaaaaa
         blueprint_name: hello
