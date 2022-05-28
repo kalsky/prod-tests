@@ -16,7 +16,7 @@ jobs:
         space: aaaaaaa
         blueprint_name: hello
         torque_token: ${{ secrets.TORQUE_TOKEN }}
-        torque_alt_url: https://preview1.qualilabs.net
+        torque_alt_url: https://review1.qualilabs.net
         duration: 120
         timeout: 30
         artifacts: ''
